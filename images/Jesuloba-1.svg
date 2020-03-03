@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -62,16 +62,16 @@
      transform="translate(-76.259319,-62.902267)">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.15321445px;line-height:1.25;font-family:Forte;-inkscape-font-specification:'Forte, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.35382992;"
-       x="83.235939"
-       y="66.980057"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.15321445px;line-height:1.25;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000080;fill-opacity:1;stroke:none;stroke-width:0.35382992"
+       x="84.168892"
+       y="67.583023"
        id="text20"
        transform="scale(0.9115659,1.0970134)"><tspan
          sodipodi:role="line"
          id="tspan18"
-         x="83.235939"
-         y="66.980057"
-         style="stroke-width:0.35382992;fill:#000080;">JESULOBA</tspan></text>
+         x="84.168892"
+         y="67.583023"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Berlin Sans FB Demi';-inkscape-font-specification:'Berlin Sans FB Demi';fill:#000080;stroke-width:0.35382992">JESULOBA</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot1377"
@@ -83,5 +83,5 @@
            height="892.97485"
            x="-1895.0461"
            y="23.473717" /></flowRegion><flowPara
-         id="flowPara1383"></flowPara></flowRoot>  </g>
+         id="flowPara1383" /></flowRoot>  </g>
 </svg>
